@@ -1,1 +1,9 @@
 # UNP_PROJECT_BI_WITH_POWER_BI_COFFEE_SALES_ANALYSIS
+
+I did this project in collaboration with UNP, where we used *Power BI* to analyze coffee sales data and understand how the business is performing. The main aim of this project was to turn raw sales data into meaningful insights that can help in better decision-making and overall business improvement. In this project, we focused on key areas such as revenue, customer orders, product demand, and peak business hours. By creating interactive dashboards and visualizations in Power BI, we were able to clearly see patterns and trends in the data. For example, we identified which products were most popular, at what times the sales were highest, and how customer demand changed throughout the day. Working with these visual insights made it easier to understand the strengths and weaknesses of the business. Based on our analysis, we also suggested practical strategies to improve performance. These included better management of peak hours by allocating more staff, promoting high-demand products, and introducing offers during low-sales periods to attract more customers.
+This project helped us understand how data visualization tools like Power BI can simplify complex data and present it in an easy-to-understand format. It also showed how businesses can use data-driven insights to make smarter decisions rather than relying on assumptions. Overall, this project was a valuable learning experience as it combined data analysis with real-world business applications. It demonstrated how proper use of tools like Power BI can help businesses improve efficiency, increase sales, and enhance customer satisfaction in a practical and effective way.
+
+
+PROJECT PDF FILE : https://drive.google.com/file/d/1-trB9qztb1fqIZlzwPIadvCE1K-rM-0G/view?usp=sharing
+
+PROJECT PBIX FILE :https://drive.google.com/file/d/11XBcdvsEfBENopipFQ5mQuHO9EZNh3Cu/view?usp=sharing
